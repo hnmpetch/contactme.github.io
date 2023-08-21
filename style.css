@@ -37,13 +37,13 @@ body, html {
 }
 
 .card {
-    width: 95%;
+    width: 300px;
     background-color: white;
     border-radius: 20px;
     color: #333;
     margin: 20px 0;
     padding: 20px;
-    font-size: 40px;
+    font-size: 100%;
     text-decoration: none;
 }
 
@@ -62,12 +62,9 @@ body, html {
 }
 
 .card-img {
-    height: 100px;
-    width: 100px;
+    height: 50px;
+    width: 50px;
     border-radius: 50%;
     float: left;
-}
-.email {
-    font-size: 30px;
 }
 
